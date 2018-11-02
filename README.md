@@ -1,5 +1,10 @@
 # eye_track_project
 
+## Aim
+
+Looking for someone who can help us solve this problem with other algorithms.
+We would like to compare the impact of each feature on the visibility of the ad.
+
 ## Introduction
 
 The goal of this project is to predict which features of an online product image will affect the attention of the consumers. With a previous experiment on 91 participants who used eye trackers to view 23 commercial images, a data set has been generate. By adopting the linear regression algorithm in machine learning, the research finds that the color’s HV, white space gaussian 3 and average saturation of a product’s picture are highly related to the viewers’ attention.
