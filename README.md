@@ -26,8 +26,6 @@ The eye movement data used in this report contains the time and number of times 
 we will test your algorithms with our database.
 <br>
 Please follow the workflow below: 
-<br>
-
 1. Fork the repository.
 <br>
 2. Clone the project to your computer.
