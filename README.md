@@ -30,7 +30,7 @@ Please follow the workflow below:
 3. Work on your fork and make your additions algorithms.
 4. Commit changes to your own branch.
 5. Submit a Pull request.
-6. Waiting for your algorithm test report.
+6. Waiting for your algorithm testing report.
 
 
 ## Data Feature description
