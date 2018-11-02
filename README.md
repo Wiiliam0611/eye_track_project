@@ -21,6 +21,17 @@ Eye tracking technology tracks the gaze point by measuring the position of the e
 The eye movement data used in this project contains the time and number of times the subject fixations and saccades(Hervet.etal, 2011). The subject image is divided into small pieces and the current position information is collected to determine whether the information contained in the advertisement is valued.
 
 
+## Contributing
+This project follow the "fork-and-pull" Git workflow. And we will test your algorithms with our database
+
+1.Fork the repository.
+2.Clone the project to your own machine
+3.Work on your fork and make your additions algorithms
+4.Commit changes to your own branch.
+5.Submit a Pull request.
+6.Wait your algorithms testing report.
+
+
 ## Data Feature description
 
 [Description](https://github.com/Wiiliam0611/eye_track_project/blob/master/Intro%20of%20Varible.docx)
