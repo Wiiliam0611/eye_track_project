@@ -35,7 +35,12 @@ Please follow the workflow below:
 
 ## Data Feature description
 
-[Description](https://github.com/Wiiliam0611/eye_track_project/blob/master/Intro%20of%20Varible.docx)
+
+The data used in this project is mainly from Dr Yina Li’s research. In her research, she conducted an experiment which included 81 participants. Each of them was asked to watch 23 different screenshots of product lists which were from eBay, Alibaba, and Amazon. When they were watching the screenshots, an eye track device was used to record the eye movement of the testers. In the end, 634485 pieces of data has been recorded as row data with 83 attributes.
+The other part of data is from Dr Yina Li’s another research. In this research, Dr Li et al developed an algorithm which can calculate color richness, stroke thickness and other features of a given picture. By adopting this technique, the 23 different screenshots were divided into 228 product pictures with 23 calculated features. 
+
+
+[Detail Description](https://github.com/Wiiliam0611/eye_track_project/blob/master/Intro%20of%20Varible.docx)
 
 ## License (MIT)
 [License](https://github.com/Wiiliam0611/eye_track_project/blob/master/LICENSE)
