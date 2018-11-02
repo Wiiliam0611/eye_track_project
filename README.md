@@ -15,8 +15,10 @@ The goal of this project is to predict which features of an online product image
 ## Background
 
 Humans produce multiple forms of eye movement (Rayner 2009), but only fixation and saccades are used in this report. Fixation time varies between 80 and 600 milliseconds, the main information is obtained by the fixation, its regular frequency < 3 Hz, but the eyeball in this process is not completely still (Schiller 1998). Saccades are fast eye movements with a frequency of 3 times per second. The relatively stable interlaced period of the two eye saccades is called fixation (Rayner 2009). During saccades, effective visual processing is largely suppressed, and the main information is collected during the fixation, but this does not mean that the saccades information is useless information.
+
 <br>
 Eye tracking technology tracks the gaze point by measuring the position of the eye's gaze point or the movement of the eyeball relative to the head.
+
 <br>
 The eye movement data used in this report contains the time and number of times the subject fixations and saccades(Hervet et al. 2011). The subject image is divided into small pieces and the current position information is collected to determine whether the information contained in the advertisement is valued.
 
