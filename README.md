@@ -1,4 +1,4 @@
-# eye_track_project
+# eye_track_project [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Wiiliam0611/eye_track_project/blob/master/LICENSE)
 
 ## Aim
 
@@ -23,19 +23,13 @@ The eye movement data used in this report contains the time and number of times 
 
 ## Contributing
 
-we will test your algorithms with our database.
-<br>
+Our Team will test your algorithms with our database.
 Please follow the workflow below: 
 1. Fork the repository.
-<br>
 2. Clone the project to your computer.
-<br>
 3. Work on your fork and make your additions algorithms.
-<br>
 4. Commit changes to your own branch.
-<br>
 5. Submit a Pull request.
-<br>
 6. Waiting for your algorithm test report.
 
 
