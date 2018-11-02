@@ -17,3 +17,8 @@ The eye movement data used in this project contains the time and number of times
 
 ## Data Feature description
 
+[Description](https://github.com/Wiiliam0611/eye_track_project/blob/master/Intro%20of%20Varible.docx)
+
+## License (MIT)
+[License](https://github.com/Wiiliam0611/eye_track_project/blob/master/LICENSE)
+
