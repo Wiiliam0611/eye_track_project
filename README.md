@@ -22,19 +22,21 @@ The eye movement data used in this project contains the time and number of times
 
 
 ## Contributing
-This project follow the "fork-and-pull" Git workflow. And we will test your algorithms with our database
+we will test your algorithms with our database.
+<br>
+This project follows workfflow below: 
 
-1.Fork the repository.
+1. Fork the repository.
 <br>
-2.Clone the project to your computer.
+2. Clone the project to your computer.
 <br>
-3.Work on your fork and make your additions algorithms.
+3. Work on your fork and make your additions algorithms.
 <br>
-4.Commit changes to your own branch.
+4. Commit changes to your own branch.
 <br>
-5.Submit a Pull request.
+5. Submit a Pull request.
 <br>
-6.Waiting for your algorithm test report.
+6. Waiting for your algorithm test report.
 
 
 ## Data Feature description
